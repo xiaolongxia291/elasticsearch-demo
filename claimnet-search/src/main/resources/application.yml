@@ -1,4 +1,4 @@
 spring:
   elasticsearch:
     rest:
-      uris: http://106.12.106.59:9200
+      uris: http://es服务器ip:9200
